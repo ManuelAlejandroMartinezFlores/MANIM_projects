@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/2200905680_3987251656_3267073442.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/3701443464_2530395420_2980145658.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/4280741626_3987251656_4229895716.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/1571571262_2088065963_128170273.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/1573658494_3171346752_1253545399.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/1711538471_4221976588_2072158421.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/39712293_589197593_2312336084.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/4172854098_3171346752_1108654851.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/1579849664_3987251656_1873794762.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/Graph3D1/3958626669_2188975043_2744810678.mp4'

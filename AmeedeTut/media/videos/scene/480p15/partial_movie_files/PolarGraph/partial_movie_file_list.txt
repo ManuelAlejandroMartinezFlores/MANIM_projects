@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/PolarGraph/3163782288_1954143530_2358810818.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/PolarGraph/2201830969_2372630971_2438501143.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/PolarGraph/2201830969_880540121_2197040810.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/PolarGraph/2201830969_3987251656_118356637.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingAngle/3163782288_3987251656_234812445.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingAngle/2201830969_2105091885_3347991476.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingAngle/2201830969_956779803_406160065.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingAngle/2201830969_1980537455_3717559555.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingAngle/2201830969_4177055915_2426649745.mp4'

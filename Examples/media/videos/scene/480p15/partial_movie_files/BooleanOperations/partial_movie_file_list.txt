@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/BooleanOperations/3163782288_2729752657_223132457.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/BooleanOperations/2201830969_1491087596_25756704.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/BooleanOperations/2201830969_3120892480_1407782862.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/BooleanOperations/2201830969_514192756_112288140.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/BooleanOperations/2201830969_1707444547_3468936969.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/BooleanOperations/2201830969_2524162008_2949266707.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/BooleanOperations/2201830969_776367524_1967482759.mp4'

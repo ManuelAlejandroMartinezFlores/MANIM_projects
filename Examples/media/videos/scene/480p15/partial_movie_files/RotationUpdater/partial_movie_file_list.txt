@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/RotationUpdater/3163782288_1846335380_2105822667.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/RotationUpdater/2201830969_1846335380_400357374.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/RotationUpdater/2201830969_2879819713_224934644.mp4'

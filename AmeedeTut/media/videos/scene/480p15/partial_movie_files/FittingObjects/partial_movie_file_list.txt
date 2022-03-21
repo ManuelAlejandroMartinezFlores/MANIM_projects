@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/FittingObjects/3163782288_4098703711_223132457.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/FittingObjects/2201830969_1571313804_3302746392.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/FittingObjects/2201830969_2076602089_2240813323.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/FittingObjects/2201830969_1439885786_2240813323.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/scene/480p15/partial_movie_files/FittingObjects/2201830969_3987251656_1083373273.mp4'

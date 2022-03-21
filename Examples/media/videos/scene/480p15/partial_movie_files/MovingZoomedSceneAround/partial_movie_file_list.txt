@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/256647717_953641867_493510864.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/918279500_3901592904_3409683143.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/319623660_1725309621_14286408.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/2355397979_2064282404_603803224.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/1799176042_2057202439_320809510.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/3791016018_2969786161_4151428894.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/194202829_2057202439_2794995783.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/3232501229_216759028_5827796.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/1767640522_2057202439_3764601494.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/922817630_1217289657_2849939156.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/2045845656_2152721652_1766620673.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/Examples/media/videos/scene/480p15/partial_movie_files/MovingZoomedSceneAround/4052949215_2057202439_3299030690.mp4'

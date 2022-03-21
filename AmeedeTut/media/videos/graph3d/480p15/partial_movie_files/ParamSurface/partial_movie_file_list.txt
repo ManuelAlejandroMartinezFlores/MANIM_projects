@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/ParamSurface/1459484964_2001547986_223132457.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/ParamSurface/126425049_4225236781_1198586195.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/ParamSurface/588472311_1029250659_665619785.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/ParamSurface/3731136742_544105549_2284216031.mp4'
+file 'file:/Users/manuelmartinezflores/Desktop/MANIM/AmeedeTut/media/videos/graph3d/480p15/partial_movie_files/ParamSurface/2563075032_4225236781_3866521659.mp4'
