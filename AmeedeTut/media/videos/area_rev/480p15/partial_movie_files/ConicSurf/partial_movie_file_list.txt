@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/ConicSurf/2622591768_432687486_1539068667.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/ConicSurf/2856760051_476250663_1790217110.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/ConicSurf/1845975684_438518073_517703904.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/ConicSurf/3053089978_2004958327_3331023564.mp4'

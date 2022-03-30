@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/calc/480p15/partial_movie_files/Slopes/3163782288_4233525169_2358810818.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/calc/480p15/partial_movie_files/Slopes/2201830969_4177633913_1245906141.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/calc/480p15/partial_movie_files/Slopes/2201830969_3987251656_2464349697.mp4'

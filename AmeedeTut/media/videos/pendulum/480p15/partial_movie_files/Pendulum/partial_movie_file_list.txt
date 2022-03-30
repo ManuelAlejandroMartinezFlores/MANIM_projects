@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/pendulum/480p15/partial_movie_files/Pendulum/3163782288_1946201582_1962215652.mp4'

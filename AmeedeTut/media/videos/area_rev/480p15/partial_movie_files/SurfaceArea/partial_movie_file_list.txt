@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/SurfaceArea/2200905680_4088762225_223132457.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/SurfaceArea/2134438962_3987251656_3428829091.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/SurfaceArea/2134438962_2211459157_4120096403.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/SurfaceArea/2132662165_3789302102_2027519621.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/SurfaceArea/2831001925_1252736052_3328960977.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/SurfaceArea/3580337672_664224778_1578739177.mp4'

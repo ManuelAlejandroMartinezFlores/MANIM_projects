@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/PrismSurf/3226175923_648738118_729892282.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/PrismSurf/369195462_1957512020_131179430.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/PrismSurf/1909054990_4225236781_3185311268.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/PrismSurf/3196060869_1028475093_2358810818.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/area_rev/480p15/partial_movie_files/PrismSurf/3765094038_3987251656_631829896.mp4'
