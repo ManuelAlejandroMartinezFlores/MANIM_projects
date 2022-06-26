@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/vector_span/480p15/partial_movie_files/VectorSpan/3163782288_348483273_2861208731.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/vector_span/480p15/partial_movie_files/VectorSpan/2201830969_3503346753_3175673549.mp4'
