@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/opt/480p15/partial_movie_files/Opti/3163782288_4131918832_1087475689.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/opt/480p15/partial_movie_files/Opti/2201830969_3987251656_421575855.mp4'

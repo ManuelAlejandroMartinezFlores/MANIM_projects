@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/epsilon_delta/480p15/partial_movie_files/ED/3163782288_3503346753_1220557235.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/epsilon_delta/480p15/partial_movie_files/ED/2201830969_489248961_2407321543.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/epsilon_delta/480p15/partial_movie_files/ED/2201830969_2810952167_3886296619.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/epsilon_delta/480p15/partial_movie_files/ED/2201830969_3554514182_1816705465.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/epsilon_delta/480p15/partial_movie_files/ED/2201830969_3503346753_2413330463.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/epsilon_delta/480p15/partial_movie_files/ED/2201830969_489248961_1062789970.mp4'

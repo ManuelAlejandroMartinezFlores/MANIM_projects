@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/archimedes/480p15/partial_movie_files/CircleVsSpiral/3163782288_3581313788_2358810818.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/archimedes/480p15/partial_movie_files/CircleVsSpiral/2201830969_3987251656_482635757.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/archimedes/480p15/partial_movie_files/CircleVsSpiral/2201830969_2804461792_3838875923.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/archimedes/480p15/partial_movie_files/CircleVsSpiral/2201830969_3987251656_1382025946.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/archimedes/480p15/partial_movie_files/CircleVsSpiral/2201830969_205766324_3620080945.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/archimedes/480p15/partial_movie_files/CircleVsSpiral/2201830969_3910980068_248747887.mp4'
+file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/AmeedeTut/media/videos/archimedes/480p15/partial_movie_files/CircleVsSpiral/2201830969_3987251656_69815960.mp4'
