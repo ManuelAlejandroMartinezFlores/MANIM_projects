@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/BenjaminTut/media/videos/E03_Animations/480p15/partial_movie_files/AnimateProblem/3163782288_728237013_2422900464.mp4'

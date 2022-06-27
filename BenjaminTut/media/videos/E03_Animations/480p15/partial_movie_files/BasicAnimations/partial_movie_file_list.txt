@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/BenjaminTut/media/videos/E03_Animations/480p15/partial_movie_files/BasicAnimations/3163782288_731395913_223132457.mp4'
-file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/BenjaminTut/media/videos/E03_Animations/480p15/partial_movie_files/BasicAnimations/2201830969_2547997268_882133397.mp4'
-file 'file:/Users/manuelmartinezflores/Documents/GitHub/MANIM_projects/BenjaminTut/media/videos/E03_Animations/480p15/partial_movie_files/BasicAnimations/2201830969_3503346753_3066796796.mp4'
