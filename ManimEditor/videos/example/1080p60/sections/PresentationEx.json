@@ -1,0 +1,68 @@
+[
+    {
+        "name": "A",
+        "type": "presentation.normal",
+        "video": "PresentationEx_0000.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    },
+    {
+        "name": "A.1",
+        "type": "presentation.sub.normal",
+        "video": "PresentationEx_0001.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    },
+    {
+        "name": "B",
+        "type": "presentation.skip",
+        "video": "PresentationEx_0002.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    },
+    {
+        "name": "C",
+        "type": "presentation.loop",
+        "video": "PresentationEx_0003.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    },
+    {
+        "name": "D",
+        "type": "presentation.complete_loop",
+        "video": "PresentationEx_0004.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    },
+    {
+        "name": "E",
+        "type": "presentation.normal",
+        "video": "PresentationEx_0005.mp4",
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "60/1",
+        "duration": "1.000000",
+        "nb_frames": "60"
+    }
+]
