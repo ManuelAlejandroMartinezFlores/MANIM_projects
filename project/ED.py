@@ -61,10 +61,10 @@ class PVI(Scene):
  
  
 # Interactive
-from manim.opengl import * 
+# from manim.opengl import * 
 
-config.write_to_movie = False
-config.renderer = "opengl"       
+# config.write_to_movie = False
+# config.renderer = "opengl"       
 
 class PVIInter(Scene):
     def construct(self):
@@ -93,6 +93,52 @@ class PVIInter(Scene):
         
         
         
+class PVI3D(ThreeDScene):
+    
+    def construct(self):
+        axes = ThreeDAxes(
+            x_range = [-7.5, 7.5],
+            y_range=[-4.5, 4.5],
+            x_length=10, 
+            y_length=6,
+            tips=True
+        )
+        def f(u, v):
+            return -(0.2*u**2 * v + 0.5*v**2)/5
+        surf = Surface(lambda u, v: axes.c2p(u, v, f(u, v)), u_range=[-7, 7], v_range=[-4, 4]).set_opacity(0.7)
+        t = ValueTracker(2)
+        ball = Sphere(radius=0.3).move_to(axes.c2p(2, -1, f(2, -1)) + np.array([0, 0, 0.3])).set_color(RED)
+        def sol(x):
+            return -0.2*(x**2 + 2*x + 2) + np.exp(x - 2)
+        self.add(ball)
+        self.add(axes)
+        self.add(surf)
+        self.move_camera(phi=45*DEGREES, theta=-135*DEGREES)
+        self.wait()   
+             
+        def df(p):
+            u, v = p[0], p[1]
+            return 0.2*u**2 + v
+        
+        def move_ball(b, dt):
+            dt *= 1e-2
+            p = axes.p2c(b.get_center())
+            y = dt * df(p) + p[1]
+            x = dt + p[0]
+            p = (x, y, f(x, y))
+            bb = b.copy()
+            bb.move_to(axes.c2p(x, y, f(x, y)) + np.array([0, 0, 0.3]))
+            b.become(bb)
+            
+       
+       
+        def move_ball2(b):
+            b.move_to(axes.c2p(t.get_value(), sol(t.get_value()), f(t.get_value(), sol(t.get_value()))) + np.array([0, 0, 0.3]))
+            
+        
+        ball.add_updater(move_ball2)
+        self.play(t.animate.set_value(5), run_time=3, rate_func=linear)
+        self.wait(3)
         
         
         
