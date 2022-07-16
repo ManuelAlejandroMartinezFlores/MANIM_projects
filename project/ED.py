@@ -20,6 +20,11 @@ class F3(Scene):
         self.add(p.plot(lambda x: 0))
         self.add(ArrowVectorField(lambda p: [0.5, 0.5*p[1]**2 * (4 - p[1]**2), 0]))
         
+        
+class F4(Scene):
+    def construct(self):
+        self.add(ArrowVectorField(lambda p: [0.5, -0.5 * (p[0] + p[1]), 0]))
+        self.add(NumberPlane())
    
    
 def get_graph(point, plane:NumberPlane, color=BLUE):
